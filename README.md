@@ -42,33 +42,19 @@ The dashboard includes advanced **forecasting functionality** to predict future 
    
 - **Bar Chart - Sales by State (Forecasted):**
    - Shows forecasted sales for different states, offering a predictive view of performance by region.
- 
 
+ ---
 
-Open the Power BI File:
-
-Download the .pbix file from this repository.
-
-Open it using Power BI Desktop (free to download from here).
-
-Explore the Dashboard:
-
-Once the Power BI file is open, explore the different charts and visualizations created.
-
-Interact with the filters and slicers to drill down into specific data points (e.g., by region, segment, or payment mode).
-
-Data:
-
-The Data folder includes sample data (e.g., sales_data.csv, profits_data.xlsx) that was used to build the dashboard.
-
+### Dataset:
+The Dataset folder that was used to build the dashboard.
 You can modify or replace the data source to suit your needs.
 
-Screenshots:
+---
+
+### Screenshots:
 Below are some screenshots of the Power BI dashboard:
-
-Sales by Segment Donut Chart:
-
-Sales Forecasting for 15 Days:
+1.  All charts
+2.  Forecasting chart
 
 
 
