@@ -1,4 +1,4 @@
-# Super-Store-Sales-Dashboard
+# Super-Store-Sales-Analysis
 
 ## Project Overview
 This project contains a Power BI dashboard that provides **dynamic data visualizations** to track **sales**, **profits**, and various business metrics across different categories and time periods. The dashboard includes advanced features like **forecasting** for future sales and profits based on historical trends.
