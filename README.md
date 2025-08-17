@@ -12,7 +12,7 @@ The dashboard consists of several charts and maps that allow users to interact w
 
 ---
 
-### **Key Visualizations**
+## **Key Visualizations**
 
 1. **Donut Chart - Sum of Sales by Segment**
    - Segments: Consumer, Home Office, Corporate
@@ -42,7 +42,7 @@ The dashboard consists of several charts and maps that allow users to interact w
 
 ---
 
-### **Forecasting**
+## **Forecasting**
 
 The dashboard includes advanced **forecasting functionality** to predict future sales trends based on historical data. This feature enables business leaders to make more informed decisions based on anticipated changes in sales and profits.
 
@@ -54,14 +54,14 @@ The dashboard includes advanced **forecasting functionality** to predict future 
 
  ---
 
-### **Dataset**
+## **Dataset**
 
 - The Dataset folder that was used to build the dashboard.
 - You can modify or replace the data source to suit your needs.
 
 ---
 
-### Screenshots
+## Screenshots
 
 Below are some screenshots of the Power BI dashboard:
 
